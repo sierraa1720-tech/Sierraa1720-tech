@@ -2,7 +2,6 @@
 
 I am a Technical Support Specialist with over 5 years of experience  in high-volume healthcare and IT environments. I specialize in HIPAA-compliant troubleshooting and maintaining a 98% SLA accuracy and documentation rate.
 
-* **Resume:** 
 
 Professional Value and Impact
   - 🛠️ I’m currently working on growing in IT Support with Per Scholas and learning as I spend my mornings on hyper-v VM's and my afternoon's mastering comptia A+ testing and learning how to explain to end-users in  technical term's they can understand.
@@ -12,6 +11,16 @@ Professional Value and Impact
   - 📈 Why Hire me: I bring the customer-first mindset of a Supervisor and the technical curiosity of a Security Analyst
   - 📖 Technical Knowledge Base (SOPs) 
   - 📖 Documentation
+---
+## 🛠️ Hands-on Labs & Proof of Work
+
+### **Active Directory Basics (TryHackMe)**
+* **Objective:** Managed a Windows Domain Controller and practiced delegated administrative tasks.
+* **Skills Mastered:** * User & Group Management via **ADUC (Active Directory Users and Computers)**.
+    * Leveraging PowerShell for administrative overrides and password resets.
+    * Understanding the **NTDS.dit** database and the "Keys to the Kingdom."
+    * Navigating Domain Hierarchies and Organizational Units (OUs).
+  
 ---
 Skills I have:
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=white)
