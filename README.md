@@ -32,12 +32,11 @@ Skills I have:
 ### ⚖️ Compliance, Security & Methodology
 ![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-blue?style=for-the-badge)
 ![SLA Accuracy](https://img.shields.io/badge/SLA_Accuracy-98%25-brightgreen?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-red?style=for-the-badge&logo=target)
 
 📜 Certifications & Continuous Learning
 ![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-FBBC05?style=for-the-badge&logo=google&logoColor=white)
-[![CompTIA A+ Badge](https://images.credly.com/images/a0a40573-ae37-4740-bab3-00b86498eeec/CompTIA_A_2BCE.png)](https://www.credly.com/org/comptia/badge/comptia-a-certification.4)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-orange?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/org/comptia/badge/comptia-a-certification.4)
 
 
 
