@@ -35,7 +35,7 @@ Skills I have:
 
 📜 Certifications & Continuous Learning
 ![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Coursera Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-FBBC05?style=for-the-badge&logo=google&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-FBBC05?style=for-the-badge&logo=google&logoColor=white)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-orange?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/org/comptia/badge/comptia-a-certification.4)
 
 
@@ -47,6 +47,5 @@ Skills I have:
 ---
   Fun Facts & Human Logic
      - 🌍 The Great Migration:** I am currently orchestrating an **8,000-mile relocation** to the Garden Route, South Africa! 🇿🇦 I manage my life like I manage a server—with planning, redundancy, and a clear exit strategy.
-  - 🐈 Chief Logistics Officer:** My cat, **Butters**, is the true supervisor of my home office. Managing his international relocation permits has been a masterclass in documentation and compliance.
   - 😄 Pronouns: Her/She
   -🦸 Fun fact: I am a huge nerd I love anything anime, comic-book related, and my guilty pleasure is watching harry potter and then switching to watching a good hallmark movie straight after
