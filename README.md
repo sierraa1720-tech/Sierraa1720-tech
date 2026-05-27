@@ -37,7 +37,7 @@ Skills I have:
 📜 Certifications & Continuous Learning
 ![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-FBBC05?style=for-the-badge&logo=google&logoColor=white)
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-In_Progress-orange?style=for-the-badge&logo=comptia&logoColor=white)
+[![CompTIA A+ Badge](https://images.credly.com/images/a0a40573-ae37-4740-bab3-00b86498eeec/CompTIA_A_2BCE.png)](https://www.credly.com/org/comptia/badge/comptia-a-certification.4)
 
 
 
