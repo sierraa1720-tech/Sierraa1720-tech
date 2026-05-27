@@ -4,7 +4,7 @@ I am a Technical Support Specialist with over 5 years of experience  in high-vol
 
 
 Professional Value and Impact
-  - 🛠️ I’m currently working on growing in IT Support with Per Scholas and learning as I spend my mornings on hyper-v VM's and my afternoon's mastering comptia A+ testing and learning how to explain to end-users in  technical term's they can understand.
+  - 🛠️ I’m a Alumni with Per Scholas for IT Support and always learning as I spend my mornings on hyper-v VM's and my afternoon's reading on the current tech trends and marketplace and learning how to explain to end-users in  technical term's they can understand.
   - 📈 My Realiability on the job: I maintained 95-98% SLA accuracy while resolving 50+ incidents daily. I don't just close tickets; I ensure they stay closed.
   - 🔐 Security First: I am a expert in HIPAA-compliant troubleshooting. I understand that data privacy isn't just a policy—it's a requirement.
   💼 Leadership Experience:** I progressed from a Customer Service Rep to a **Supervisor and SME**, supporting both IT-adjacent and technical operations.
